@@ -3,7 +3,7 @@ Hypixel Status Checker by Uffu
 What I have to do?
 
 1. Install the newest version of python (https://www.python.org/downloads/)
-   Make sure tu check the box "Add Python to Path" as enabled.
+   Make sure to check the box "Add Python to Path" as enabled.
 
 2. Go into your "Hypixel Status Checker" folder, click in the path-way line above and overwrite the path just by typing "cmd" and press enter.
    In the terminal type "pip install -r req.txt"
@@ -29,7 +29,7 @@ What does it do?
 Why is this useful?
 - This is useful if you really want to contact someone in Minecraft. In Minecraft, you can't just contact people, except on servers.
   Because of this, it is checking the online status over and over to make sure you are able to see when the player is online.
-  Normally you just look at a website, but if you want to track multiple people at once and without refreshing the website the entire time, then this is exactly what you need.
+  Normally you just look at a website, but if you want to track multiple people at once and without refreshing the website the entire time, then this is       exactly what you need.
 
 ---------------------------------
 If something is unclear, or you want to give feedback don't be shy to contact me.
