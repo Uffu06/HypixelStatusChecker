@@ -1,0 +1,4 @@
+# You get your API key by joining the minecraft server Hypixel.net and type "/api new".
+# Paste your API-Key here:
+
+API_KEY = YOUR_API_KEY
