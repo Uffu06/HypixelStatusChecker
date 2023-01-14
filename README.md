@@ -34,4 +34,4 @@ Why is this useful?
 ---------------------------------
 If something is unclear, or you want to give feedback don't be shy to contact me.
 
-Discord - Uffu#2222 / Mail - Uffu@mail.ch
+Discord - Uffu#0001 / Mail - Uffu@mail.ch
