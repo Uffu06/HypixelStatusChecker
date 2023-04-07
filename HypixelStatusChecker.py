@@ -1,5 +1,6 @@
 import requests
-from mojang import MojangAPI
+import mojang
+from mojang import API
 import time
 import datetime
 import colorama
@@ -27,15 +28,16 @@ for line in config_file:
         API_KEY = findValue(line)
 config_file.close()
 
+
 # Making a loop to check name by name
 loop = True
 
 while loop:
     for line in content_list:
-            userinput = line.rstrip("\n")
+            username = line.rstrip("\n")
 
             # Getting the UUID from the names and making the link to get all the data
-            uuid = MojangAPI.get_uuid(userinput)
+            uuid = API().get_uuid(username)
             requestlink = str("https://api.hypixel.net/player?key="+API_KEY+"&uuid="+uuid)
             hydata = requests.get(requestlink).json()
 
