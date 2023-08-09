@@ -5,7 +5,7 @@ What I have to do?
 1. Install the newest version of python (https://www.python.org/downloads/)
    Make sure to check the box "Add Python to Path" as enabled.
 
-2. Now after downloading the HypixelStatusChecker extract the folder. Open your terminal and type `cd ./HypixelStatusChecker-main` and `pip install -r req.txt`
+2. Now after downloading the HypixelStatusChecker extract the folder. Open your terminal and type `cd ./downloads/HypixelStatusChecker-main` and `pip install -r req.txt`
 
 3. Put your names you want in the "names.txt" file. Make sure there is one name in each line and check the orthography.
    Some names dont work because they are blocked, Not Taken, Never Joined or is banned on Hypixel.
